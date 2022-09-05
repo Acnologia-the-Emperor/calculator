@@ -1,0 +1,49 @@
+.write{
+    background-color: black;
+    width: 306px;
+    height: 100px;
+    text-align: right;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-left: 500px;
+    margin-top: 200px;
+    padding-top: 2px;
+    padding-right: 2px;
+
+}
+
+
+.button .numbers button{
+    width: 77px;
+    height: 77px;
+    font-size: 20px;
+    background-color:lightsteelblue;
+    /* transform:translateY(6px);
+    box-shadow: 0 0 0;
+    outline: 0; */
+}
+.button .numbers button:hover{
+    background-color: rgb(131, 226, 30);
+}
+.button .numbers .operator{
+    background-color: orange;
+}
+.button{
+    margin-left: 500px;
+    
+}
+
+body {
+    background-color: teal;
+}
+
+.button .clear {
+    width: 308px;
+    height:50px;
+    font-size: 20px;
+    background-color: lightsteelblue;
+}
+.button .clear:hover{
+    background-color: rgb(131, 226, 30);
+}
